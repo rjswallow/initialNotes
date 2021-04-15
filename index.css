@@ -12,4 +12,5 @@ div {
     border-radius: 50px;
     padding: 50px;
     margin: 20px;
+    outline: #ffffff solid 10px;
   }
